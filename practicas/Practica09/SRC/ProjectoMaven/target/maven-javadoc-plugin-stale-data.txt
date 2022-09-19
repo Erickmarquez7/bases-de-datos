@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'/home/nerak/.m2/repository/org/postgresql/postgresql/42.3.5/postgresql-42.3.5.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/nerak/Descargas/ProjectoMaven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/nerak/Descargas/ProjectoMaven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProjectoMaven 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/nerak/Descargas/ProjectoMaven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProjectoMaven 1.0-SNAPSHOT API'
+veterinaria.projectomaven.Servicio
+veterinaria.projectomaven
+veterinaria.projectomaven.Modelo
+veterinaria.projectomaven.Conexion
+veterinaria.projectomaven.Repositorio
+/home/nerak/.m2/repository/org/postgresql/postgresql/42.3.5/postgresql-42.3.5.jar = 1652770512000
+/home/nerak/Descargas/ProjectoMaven/src/main/java = 1652724080000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/allclasses-frame.html = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/overview-frame.html = 1652842509000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/constant-values.html = 1652842509000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/index-all.html = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/help-doc.html = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/deprecated-list.html = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/package-list = 1652842509000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/overview-tree.html = 1652842509000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/stylesheet.css = 1652840862000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/javadoc.sh = 1652840862000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/script.js = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/index.html = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/overview-summary.html = 1652842510000
+/home/nerak/Descargas/ProjectoMaven/target/site/apidocs/allclasses-noframe.html = 1652842510000
