@@ -1,6 +1,6 @@
 ## Prácticas, tareas y proyecto
 
-A lo largo del curso se fue viendo la construcción de una base de datos, así como su analisis y diseño para una optima recuperación de datos.
+A lo largo del curso se fue viendo la construcción de una base de datos, así como su analisis y diseño para una optima recuperación de datos, de un caso de uso para una Veterinaria.
 
 ### Practicas
 1. Conceptos básicos
